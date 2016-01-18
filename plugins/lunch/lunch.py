@@ -26,7 +26,7 @@ class Lunch(BotPlugin):
             'Ahmed': 10,
             'Hamy': 3,
             'Tung Long': 5,
-            'Imren': 5,
+            'Imren': 2,
             'Thai Sonnenallee': 5,
             'Thai Boddinstraße': 3,
         }
